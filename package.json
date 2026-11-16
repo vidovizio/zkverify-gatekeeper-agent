@@ -1,0 +1,1 @@
+{"dependencies":{"snarkjs":"0.7.6"},"description":"Proof Gatekeeper agent for the zkVerify Agent Games (agentgames.zkverify.io)","main":"agent.cjs","name":"zkverify-proof-gatekeeper-agent","private":true,"scripts":{"start":"node agent.cjs","test":"node test/run-tests.cjs"},"version":"1.0.0"}
